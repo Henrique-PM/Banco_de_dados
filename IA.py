@@ -17,8 +17,8 @@ def comandos():
                 comando = audio.recognize_google(voz, language="pt-BR")
                 comando = comando.lower()
 
-                if "gabriele" in comando:
-                    comando = comando.replace("gabriele","")
+                if "Tiger" in comando:
+                    comando = comando.replace("Tiger","")
                     maquina.say(comando)
                     maquina.runAndWait()
 
