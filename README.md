@@ -1,1 +1,1 @@
-# IA Inteligencia Artificial Python
+# IA Inteligência Artificial Python
